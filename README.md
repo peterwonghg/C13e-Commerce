@@ -48,49 +48,49 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Demo
 
 ### READ All Products
-![GET All Products Example Screenshot](./assets/images/01.png)
+![GET All Products Example Screenshot](./develop/assets/01.png)
 
 ### READ Product By ID
-![GET Product By ID Example Screenshot](./assets/02.png)
+![GET Product By ID Example Screenshot](./develop/assets/02.png)
 
 ### CREATE Product
-![POST Product Example Screenshot](./assets/03.png)
+![POST Product Example Screenshot](./develop/assets/03.png)
 
 ### UPDATE Product
-![UPDATE Product Example Screenshot](./assets/04.png)
+![UPDATE Product Example Screenshot](./develop/assets/04.png)
 
 ### DELETE Product
-![DELETE Product Example Screenshot](./assets/05.png)
+![DELETE Product Example Screenshot](./develop/assets/05.png)
 
 ### READ All Tags
-![GET All Tags Example Screenshot](./assets/06.png)
+![GET All Tags Example Screenshot](./develop/assets/06.png)
 
 ### READ Tag By ID
-![GET Tag By ID Example Screenshot](./assets/07.png)
+![GET Tag By ID Example Screenshot](./develop/assets/07.png)
 
 ### CREATE Tag
-![POST Tag Example Screenshot](./assets/08.png)
+![POST Tag Example Screenshot](./develop/assets/08.png)
 
 ### UPDATE Tag
-![UPDATE Tag Example Screenshot](./assets/09.png)
+![UPDATE Tag Example Screenshot](./develop/assets/09.png)
 
 ### DELETE Tag
-![DELETE Tag Example Screenshot](./assets/10.png)
+![DELETE Tag Example Screenshot](./develop/assets/10.png)
 
 ### READ All Categories
-![GET All Categories Example Screenshot](./assets/11.png)
+![GET All Categories Example Screenshot](./develop/assets/11.png)
 
 ### READ Category By ID
-![GET Category By ID Example Screenshot](./assets/12.png)
+![GET Category By ID Example Screenshot](./develop/assets/12.png)
 
 ### CREATE Category
-![POST Category Example Screenshot](./assets/13.png)
+![POST Category Example Screenshot](./develop/assets/13.png)
 
 ### UPDATE Category
-![UPDATE Category Example Screenshot](./assets/14.png)
+![UPDATE Category Example Screenshot](./develop/assets/14.png)
 
 ### DELETE Category
-![DELETE Category Example Screenshot](./assets/15.png)
+![DELETE Category Example Screenshot](./develop/assets/15.png)
 <br><br>
 
 ## License
@@ -119,7 +119,7 @@ Thank you for your contribution.<br><br>
 ## Tests
 The functionality of C13e-Commerce is tested through Insomnia and demonstrated in the demo video below:
 
-[![Demo Video](./assets/play.png)](https://drive.google.com/file/d/1eHHujAINzY483W-kJH8JFI3xyBo0iX5I/view)
+[![Demo Video](./develop/assets/play.png)](https://drive.google.com/file/d/1eHHujAINzY483W-kJH8JFI3xyBo0iX5I/view)
 <br><br>
 
 ## Questions
