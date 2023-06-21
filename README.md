@@ -48,7 +48,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Demo
 
 ### READ All Products
-![GET All Products Example Screenshot](./assets/01.png)
+![GET All Products Example Screenshot](./assets/C01.png)
 
 ### READ Product By ID
 ![GET Product By ID Example Screenshot](./assets/02.png)
